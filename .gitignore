@@ -2,3 +2,5 @@
 /logs
 webpack.config.js
 /test
+/publish
+/shell
